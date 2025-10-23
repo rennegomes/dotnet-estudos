@@ -1,0 +1,14 @@
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\bin\Debug\net9.0\exemplo-explorando.exe
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\bin\Debug\net9.0\exemplo-explorando.deps.json
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\bin\Debug\net9.0\exemplo-explorando.runtimeconfig.json
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\bin\Debug\net9.0\exemplo-explorando.dll
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\bin\Debug\net9.0\exemplo-explorando.pdb
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\exemplo-explorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\exemplo-explorando.AssemblyInfoInputs.cache
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\exemplo-explorando.AssemblyInfo.cs
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\exemplo-explorando.csproj.CoreCompileInputs.cache
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\exemplo-explorando.dll
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\refint\exemplo-explorando.dll
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\exemplo-explorando.pdb
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\exemplo-explorando.genruntimeconfig.cache
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\ref\exemplo-explorando.dll
