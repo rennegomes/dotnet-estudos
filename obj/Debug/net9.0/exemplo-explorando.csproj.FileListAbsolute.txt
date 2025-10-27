@@ -12,3 +12,4 @@ C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\ne
 C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\exemplo-explorando.pdb
 C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\exemplo-explorando.genruntimeconfig.cache
 C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\ref\exemplo-explorando.dll
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\exemplo-explorando.sourcelink.json

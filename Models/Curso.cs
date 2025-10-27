@@ -24,9 +24,10 @@ namespace exemplo_explorando.Models
         public void ListarAlunos()
         {
             Console.WriteLine($"----------------------------\n| Alunos do curso de {Nome} |\n----------------------------\n|                           |\n----------------------------");
-            foreach (Pessoa aluno in Alunos)
+            for (int i = 0; i < Alunos.Count; i++)
             {
-                Console.WriteLine($"| {aluno.NomeCompleto} |\n----------------------------");
+                string mensagem = $"| {i + 1} | {Alunos[i].NomeCompleto} |\n----------------------------";
+                Console.WriteLine(mensagem);
             }
         }
     }
