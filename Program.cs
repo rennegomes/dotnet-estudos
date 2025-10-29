@@ -10,3 +10,6 @@ cursoDeIngles.Alunos = new List<Pessoa>();
 cursoDeIngles.AdicionaAluno(p1);
 cursoDeIngles.AdicionaAluno(p2);
 cursoDeIngles.ListarAlunos();
+
+// Colecoes colecoes = new Colecoes();
+// colecoes.NumerosEmCascata();
