@@ -13,3 +13,8 @@ cursoDeIngles.ListarAlunos();
 
 // Colecoes colecoes = new Colecoes();
 // colecoes.NumerosEmCascata();
+
+// using Newtonsoft.Json;
+// Vendas v1 = new Vendas(1, "teclado", 500.00M);
+// string serializado = JsonConvert.SerializeObject(v1, Formatting.Indented);
+// Console.WriteLine(serializado);

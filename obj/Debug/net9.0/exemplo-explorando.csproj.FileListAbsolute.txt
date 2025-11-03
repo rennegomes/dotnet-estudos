@@ -13,3 +13,6 @@ C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\ne
 C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\exemplo-explorando.genruntimeconfig.cache
 C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\ref\exemplo-explorando.dll
 C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\exemplo-explorando.sourcelink.json
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\exemplo-explorando.csproj.AssemblyReference.cache
+C:\Users\renne\Downloads\Teste\projetos-bootcamp\exemplo-explorando\obj\Debug\net9.0\exemplo-.2C56CC82.Up2Date
