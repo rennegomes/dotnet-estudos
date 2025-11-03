@@ -1,5 +1,8 @@
-{
-  "Id": 1,
-  "Produto": "teclado",
-  "Preco": 500.00
-}
+[
+  {
+    "Id": 1,
+    "Produto": "teclado",
+    "Preco": 500.00,
+    "DataVenda": "2025-11-03T17:55:01.2890812-03:00"
+  }
+]
