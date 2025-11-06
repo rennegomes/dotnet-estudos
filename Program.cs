@@ -22,9 +22,13 @@ using Newtonsoft.Json;
 // File.WriteAllText("Arquivos/vendas.json", serializado);
 // Console.WriteLine(serializado);
 
-string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
-List<Vendas> listaVenda = JsonConvert.DeserializeObject<List<Vendas>>(conteudoArquivo);
-foreach (Vendas venda in listaVenda)
-{
-    Console.WriteLine($"Id: {venda.Id}\nProduto: {venda.Produto}\nPreco: {venda.Preco}\nData: {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}");
-}
+// string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+// List<Vendas> listaVenda = JsonConvert.DeserializeObject<List<Vendas>>(conteudoArquivo);
+// foreach (Vendas venda in listaVenda)
+// {
+//     Console.WriteLine($"Id: {venda.Id}\nProduto: {venda.Produto}\nPreco: {venda.Preco}\nData: {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}");
+// }
+
+CCorrente cc = new CCorrente();
+cc.Creditar(200);
+cc.ExibirSaldo();
