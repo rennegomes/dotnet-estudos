@@ -29,6 +29,9 @@ using Newtonsoft.Json;
 //     Console.WriteLine($"Id: {venda.Id}\nProduto: {venda.Produto}\nPreco: {venda.Preco}\nData: {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}");
 // }
 
-CCorrente cc = new CCorrente();
-cc.Creditar(200);
-cc.ExibirSaldo();
+// CCorrente cc = new CCorrente();
+// cc.Creditar(200);
+// cc.ExibirSaldo();
+
+Calculadora cal = new Calculadora();
+cal.divisao(1, 2);
